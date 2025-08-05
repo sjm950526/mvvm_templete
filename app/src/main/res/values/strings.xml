@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mvvm_templete</string>
+    <string name="inflate">inflate</string>
+    <string name="noti">서비스가 동작중입니다.</string>
+    <string name="error_time">일시적인 장애가 발생하였습니다.\n잠시후에 다시 시도해 주세요.</string>
+    <string name="error_http">해당 페이지를 찾을수 없습니다.\n잠시후에 다시 시도해 주세요.</string>
+    <string name="error_msg">정보를 수신을 할 수 없습니다.\n잠시 후 다시 사용하여 주시기 바랍니다.</string>
+    <string name="error_network">네트워크 연결상태가 불안정합니다\n네트워크 상태를 확인해주세요.</string>
+</resources>
