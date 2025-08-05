@@ -11,7 +11,7 @@
   - base
     - Activity, ViewModel, RecyclerViewAdapter base 클래스
 - di
-  - Hilt를 이용한 Retrofit2 모듈 객체
+  - Hilt를 이용한 통신, DB 모듈 객체
 - remote
   - REST API 통신을 위한 ApiInterface 및 Repository 정의
   - data
